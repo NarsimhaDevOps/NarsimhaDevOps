@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on kubernetes and AKS.
 - 📫 To reach me call @7981671887
+- 😊 Email:narsimhareddydevops@gmail.com
   
   
 
